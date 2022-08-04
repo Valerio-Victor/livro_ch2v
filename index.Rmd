@@ -1,0 +1,33 @@
+--- 
+title: ""
+author: ""
+date: ""
+site: bookdown::bookdown_site
+documentclass: book
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+
+
+
+
+# Prefácio
+
+
+```{r, results = 'asis', echo = F, warning = F, message = F, error = F, fig.align ='center', out.width='100%'}
+
+knitr::include_graphics('capa_livro.png')
+
+```
+
+<div style="text-align: justify">
+
+Aqui poderíamos realizar uma introdução sobre o material, professores, universidade
+e centro de hidrogênio verde. Como um prefácio.
+
+
+
+
+
+

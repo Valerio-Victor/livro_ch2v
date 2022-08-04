@@ -1,0 +1,15 @@
+# Aspectos Econômicos 
+
+<div style="text-align: justify">
+
+Aqui seria o material referente ao módulo 5.
+
+**EMENTA PROPOSTA**:
+
+- Cenário Econômico do H2 no Brasil;
+- Princípios de Avaliação Financeira de Investimentos;
+- Critérios de Decisão de Investimento de Capital;
+- Sistemas de Amortização e Impacto dos Financiamentos;
+- Depreciação Contábil e Impacto do IRPJ;
+- Custo de Capital em Projetos de H2;
+- Estudos de Caso: Avaliações de Projetos de H2.
